@@ -1,0 +1,20 @@
+﻿{
+  "name": "홍일인닷컴",
+  "short_name": "홍일인",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#fee500",
+  "icons": [
+    {
+      "src": "/LOGO.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/LOGO.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
